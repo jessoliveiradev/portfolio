@@ -589,10 +589,12 @@ strong {
   font-size: var(--h1-font-size);
   line-height: normal;
   display: block;
+  margin-bottom: 30px;
 }
 
 .featured-text {
   color: var(--secondary-color);
+  margin-top: 30px;
 }
 
 .featured-border-bottom {
@@ -670,7 +672,7 @@ strong {
   position: relative;
   overflow: hidden;
   margin-bottom: 24px;
-  padding: 40px 40px 240px 40px;
+  padding: 40px 40px 20px 40px;
   transition: all 0.5s;
 }
 
